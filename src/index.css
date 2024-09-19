@@ -51,6 +51,7 @@ Global Styles
   box-sizing: border-box;
 }
 
+/* Makes the scrolling go smooth */
 html {
   scroll-behavior: smooth;
 }
